@@ -24,3 +24,32 @@ Looking forward to connecting with fellow developers and tech enthusiasts!
 
 Happy coding! 🚀
 
+## Stack
+
+### Frontend
+
+- **JavaScript:**
+  - We use JavaScript as the primary language for frontend development, leveraging its versatility and modern capabilities.
+
+- **React.js:**
+  - The application's user interface is built with React.js, providing a declarative and component-based approach for efficient development.
+
+- **Angular 17:**
+  - We utilize Angular 17 for certain parts of the application, leveraging its component-based structure and robust features to create scalable web applications.
+
+### Other Featured Technologies
+
+- **Bootstrap:**
+  - We use Bootstrap to streamline the development of responsive and stylized user interfaces.
+
+- **RxJS:**
+  - We make use of RxJS for reactive programming, enhancing event management and asynchronous data manipulation.
+
+### Development and Collaboration Tools
+
+- **Git:**
+  - We manage version control with Git for efficient collaborative development and a transparent change history.
+
+- **GitHub:**
+  - GitHub serves as our hosting and collaboration platform, facilitating code reviews, issue management, and team collaboration.
+
