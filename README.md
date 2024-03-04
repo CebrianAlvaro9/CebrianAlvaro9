@@ -8,15 +8,9 @@ I'm a Frontend Developer specializing in both React.js and Angular.js. Welcome t
 - 🌐 Always eager to learn and stay up-to-date with the latest web technologies.
 - 🚀 Currently honing my skills in both React.js and Angular.js development.
 
-[## Projects
+## Projects
 
-Here are a few projects you can find in my repositories:
-
-1. [Project Name](link-to-project) - Brief description of the project.
-2. [Project Name](link-to-project) - Brief description of the project.
-   ...
-]([url](url))
-Feel free to check out my repositories for more projects and code examples.
+You can try the live demo [here](https://pokemonapp-45e99.firebaseapp.com/home).
 
 ## Current Endeavors
 
@@ -24,8 +18,7 @@ Feel free to check out my repositories for more projects and code examples.
 
 ## Let's Connect
 
-- LinkedIn: [Álvaro Cebrián Urueña](https://www.linkedin.com/in/your-linkedin-profile)
-- Twitter: [@your_twitter_handle](https://twitter.com/your-twitter-handle)
+- LinkedIn: [Álvaro Cebrián Urueña](https://www.linkedin.com/in/alvaro-cebrian-urue%C3%B1a-810249265/)
 
 Looking forward to connecting with fellow developers and tech enthusiasts!
 
