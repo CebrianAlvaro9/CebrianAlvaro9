@@ -29,7 +29,7 @@ You can try the live demo [here](https://pokemonapp-45e99.firebaseapp.com/home).
 🌍 Currently working on an exciting international project for a prominent municipality in the Netherlands. Stay tuned for updates on this innovative project!
 
 ## Let's Connect
-- Porfolio: [Álvaro Cebrián Urueña]([https://www.linkedin.com/in/alvaro-cebrian-urue%C3%B1a-810249265/](https://cebrianalvaro9.github.io/porfolioWebAlvaroCebrian/)) 
+- Porfolio: [Álvaro Cebrián Urueña](https://www.linkedin.com/in/alvaro-cebrian-urue%C3%B1a-810249265/](https://cebrianalvaro9.github.io/porfolioWebAlvaroCebrian/)) 
 - LinkedIn: [Álvaro Cebrián Urueña](https://www.linkedin.com/in/alvaro-cebrian-urue%C3%B1a-810249265/)
 
 Looking forward to connecting with fellow developers and tech enthusiasts!
