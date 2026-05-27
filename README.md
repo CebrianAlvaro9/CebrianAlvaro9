@@ -26,7 +26,7 @@ You can try the live demo [here](https://pokemonapp-45e99.firebaseapp.com/home).
 
 ## Current Endeavors
 
-🌍 Currently working for SportsEmotion ⚽🏀!
+🌍 Currently working for Deloitte!
 
 ## Let's Connect
 - [Porfolio](https://cebrianalvaro9.github.io/porfolioWebAlvaroCebrian/)
